@@ -12,6 +12,7 @@ body {
 }
 
 .fly__again {
+  z-index: 9999;
   position: absolute;
   top: 30%;
   left: 50%;
